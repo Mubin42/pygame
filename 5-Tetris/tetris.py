@@ -11,7 +11,7 @@ dark_blue = (44, 44, 127)
 
 game_grid = Grid()
 
-block = LBlock()
+block = ZBlock()
 
 # display surface
 screen_width, screen_height, fps = 300, 600, 60
