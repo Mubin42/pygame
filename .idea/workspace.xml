@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b7c05eb-b606-4bd3-994c-682636adb5d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/5-Tetris/game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-Tetris/block.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-Tetris/block.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/5-Tetris/blocks.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-Tetris/blocks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-Tetris/tetris.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-Tetris/tetris.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
