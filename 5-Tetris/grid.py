@@ -21,8 +21,8 @@ class Grid:
             for column in range(self.num_cols):
                 cell_value = self.grid[row][column]
                 # X and Y position with 1px padding
-                x = column * self.cell_size + 1
-                y = row * self.cell_size + 1
+                x = column * self.cell_size + 11
+                y = row * self.cell_size + 11
                 size = self.cell_size - 1
                 # draw rect
                 cell_rect = pygame.Rect(x, y, size, size)

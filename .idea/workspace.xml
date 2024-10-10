@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b7c05eb-b606-4bd3-994c-682636adb5d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/5-Tetris/Sounds/clear.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Tetris/Sounds/music.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Tetris/Sounds/rotate.ogg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/5-Tetris/block.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-Tetris/block.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-Tetris/colors.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-Tetris/colors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/5-Tetris/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-Tetris/game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/5-Tetris/grid.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-Tetris/grid.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/5-Tetris/tetris.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-Tetris/tetris.py" afterDir="false" />
@@ -49,25 +53,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.BorderBouncingRectangles.executor": "Run",
-    "Python.Collision.executor": "Run",
-    "Python.CreateDisplay.executor": "Run",
-    "Python.block.executor": "Run",
-    "Python.blocks.executor": "Run",
-    "Python.colors.executor": "Run",
-    "Python.grid.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.screen.executor": "Run",
-    "Python.snake.executor": "Run",
-    "Python.tetris.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.BorderBouncingRectangles.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Collision.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CreateDisplay.executor&quot;: &quot;Run&quot;,
+    &quot;Python.block.executor&quot;: &quot;Run&quot;,
+    &quot;Python.blocks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.colors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.grid.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.screen.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tetris.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\python\pygame\5-Tetris" />
@@ -165,5 +170,8 @@
       <updated>1707664011293</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
